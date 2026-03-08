@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Learning more and more practical content about cloud thanks to [Learn to Cloud](https://learntocloud.guide) great course.
+Support [GPS](https://github.com/madebygps) in this amazing project.
 ### Job at the moment 🧑‍💻
 Working in IT since 2020, focusing on integration (Mulesoft) and enterprise systems (Salesforce, SAP).
 ### Background and goal 🏁
