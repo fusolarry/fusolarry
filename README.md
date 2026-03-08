@@ -1,4 +1,4 @@
-## Hi there 👋
+## Learning new stuff 🙃
 
 <!--
 **fusolarry/fusolarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Learning more and more practical content about cloud thanks to [Learn to Cloud](https://learntocloud.guide) great course.
+### Job at the moment 🧑‍💻
+Working in IT since 2020, focusing on integration (Mulesoft) and enterprise systems (Salesforce, SAP).
+### Background and goal 🏁
+Mathematics graduate. Willing to learn more abuot cloud and integration concepts to become a Solution Architect.
+### Contacts 📫
+Email: fusolarry@gmail.com 
+[Linkedin](www.linkedin.com/in/fabio-fusato-b5853b148)
