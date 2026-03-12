@@ -21,5 +21,6 @@ Working in IT since 2020, focusing on integration (Mulesoft) and enterprise syst
 ### Background and goal 🏁
 Mathematics graduate. Willing to learn more abuot cloud and integration concepts to become a Solution Architect.
 ### Contacts 📫
-Email: fusolarry@gmail.com 
+Email: fusolarry@gmail.com - personal, friends and informal 
+Email: fusato.fab@gmail.com - professional collaboration
 [Linkedin](www.linkedin.com/in/fabio-fusato-b5853b148)
